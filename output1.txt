@@ -1,0 +1,13 @@
+No.	|	Unique Words	|	Frequency
+-----------------------------------------
+1         wonderful           2              
+2         days                2              
+3         you                 2              
+4         hi                  1              
+5         nice                1              
+6         to                  1              
+7         meet                1              
+8         all                 1              
+9         hope                1              
+10        have                1              
+11        a                   1              
